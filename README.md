@@ -1,46 +1,11 @@
-Contribution: 2013-09-22 20:00
+# Hackers of UMass
 
-Contribution: 2013-09-22 20:01
+<img src="http://hackers-of-umass.github.io/img/tree.svg">
 
-Contribution: 2013-09-23 20:00
+Here are the slides and code examples presented during the
+hackers of umass meeting on Thursday April 23, 2015.
+Happy Hacking!
 
-Contribution: 2013-09-23 20:01
-
-Contribution: 2013-09-23 20:02
-
-Contribution: 2013-09-24 20:00
-
-Contribution: 2013-09-24 20:01
-
-Contribution: 2013-09-24 20:02
-
-Contribution: 2013-09-24 20:03
-
-Contribution: 2013-09-26 20:00
-
-Contribution: 2013-09-26 20:01
-
-Contribution: 2013-09-26 20:02
-
-Contribution: 2013-09-26 20:03
-
-Contribution: 2013-09-29 20:00
-
-Contribution: 2013-09-29 20:01
-
-Contribution: 2013-10-02 20:00
-
-Contribution: 2013-10-02 20:01
-
-Contribution: 2013-10-02 20:02
-
-Contribution: 2013-10-02 20:03
-
-Contribution: 2013-10-03 20:00
-
-Contribution: 2013-10-03 20:01
-
-Contribution: 2013-10-03 20:02
-
-Contribution: 2013-10-07 20:00
-
+* `html-example`: contains the HTML examples
+* `css-example`: contains the CSS examples
+* `slides.pdf`: well, they are the slides!
